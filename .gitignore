@@ -1,3 +1,4 @@
 .env
 backups
 venv
+.DS_S*
