@@ -5,7 +5,7 @@ services:
       dockerfile: Dockerfile
     container_name: fastapi-exapp
     ports:
-      - "8000:8000"
+      - "8086:8000"
     env_file: .env
     environment:
       MONGO_DETAILS: mongodb://mongo:27017
