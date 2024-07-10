@@ -4,3 +4,4 @@ pymongo
 pydantic
 qrcode[pil]
 colour
+CairoSVG

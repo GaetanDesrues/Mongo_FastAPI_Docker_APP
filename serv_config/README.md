@@ -1,5 +1,7 @@
 # Server config
 
+- git clone https://github.com/GaetanDesrues/Mongo_FastAPI_Docker_APP.git
+- Create `.env` file
 - DNS record
 - Proxy + TLS certificate
 - nginx reverse proxy
