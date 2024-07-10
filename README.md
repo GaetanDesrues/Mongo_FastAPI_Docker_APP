@@ -1,5 +1,9 @@
 # MongoDB and FastAPI
 
+Edit your `.env` file in project dir.
+
+## Dev
+
 ```bash
 docker logs fastapi-app
 docker exec -it fastapi-app bash
