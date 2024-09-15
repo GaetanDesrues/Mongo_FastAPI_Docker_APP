@@ -80,3 +80,4 @@ outer_eye_mask = style_outer_eyes(qr_img)
 intermediate_img = Image.composite(qr_inner_eyes_img, qr_img, inner_eye_mask)
 final_image = Image.composite(qr_outer_eyes_img, intermediate_img, outer_eye_mask)
 final_image.save("final_image.png")
+
